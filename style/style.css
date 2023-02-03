@@ -51,7 +51,7 @@ a.externo::after{
 
 a.cabecalho::before{
     content: "\1F4DE"; 
-    color: green;   
+       
 }
 
 /* Início do Cabeçalho----------------------*/
