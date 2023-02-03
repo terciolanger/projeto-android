@@ -50,8 +50,7 @@ a.externo::after{
 }
 
 a.cabecalho::before{
-    content: "\1F4DE"; 
-       
+    content: "\1F4DE";        
 }
 
 /* Início do Cabeçalho----------------------*/
