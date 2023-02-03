@@ -210,7 +210,7 @@ aside > ul {
     list-style-type: '\2714\00A0\00A0';/*2714 emojipedia check, 00A0 é espaço*/
     list-style-position: inside;
     columns: 2;     
-    padding-right: 30px;
+    padding-right: 20px;
     font-size: 1em;  
 }
 /*------------------------------------------------------*/
