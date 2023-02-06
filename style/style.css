@@ -217,7 +217,7 @@ aside > ul {
 footer > p {
     background-color: var(--cor5);      
     color: var(--cor7);
-    font-size: .8em;
+    font-size: .9em;
     text-align: center;     
     padding: 5px;    
 }
